@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : 10 nov. 2013, 11:33:51
+    Author     : Dadz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    color: #F4F4F4;
+    text-align: center;
+    background:url("img/binding_dark.png") repeat;
+    font-family: Verdana,Geneva,Arial,Helvetica,sans-serif;
+}
+
+h1#time {
+    font-size: 7em;
+    line-height: 2em;
+    text-align:center;
+}
+
